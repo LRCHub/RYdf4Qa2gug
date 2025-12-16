@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "創造",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-16T03:06:36.097473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "創造",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_創造_星野源.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "創造",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_創造_星野源.txt"
+    }
+  ]
+}
